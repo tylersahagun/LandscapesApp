@@ -1,3 +1,11 @@
+
+
+
+https://github.com/user-attachments/assets/0ca631af-0501-4539-9402-74f0bc9f64b4
+
+
+
+
 # Landscape Activity Recommender
 
 An iOS app that suggests fun outdoor activities to users, built with Swift and SwiftUI.
